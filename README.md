@@ -1,24 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Dev-Portfolio
+This website is a professional portfolio for a web developer, showcasing their work, biography, skills, and ways to contact them.
 
-Things you may want to cover:
+## Home Page
+Introduction with brief summary
 
-* Ruby version
+## About Me
+Detailed personal biography
+Education
+Skills / Certs
 
-* System dependencies
+## My Work
+Descriptions and images of projects
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Contact Me
