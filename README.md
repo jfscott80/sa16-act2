@@ -1,17 +1,17 @@
-# README
+ README
 
-# Dev-Portfolio
+ Dev-Portfolio
 This website is a professional portfolio for a web developer, showcasing their work, biography, skills, and ways to contact them.
 
-## Home Page
+ Home Page
 Introduction with brief summary
 
-## About Me
+ About Me
 Detailed personal biography
 Education
 Skills / Certs
 
-## My Work
+ My Work
 Descriptions and images of projects
 
-## Contact Me
+ Contact Me

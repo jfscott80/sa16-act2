@@ -8,10 +8,10 @@ Rails.application.routes.draw do
   # get "about", to: "about#index", as: "about"
   # get "work", to: "work#index", as: "work"
   # get "contact", to: "contact#index", as: "contact"
-  get "home", to: "pages#home"
-  get "about", to: "pages#about"
-  get "work", to: "pages#work"
-  get "contact", to: "pages#contact"
+  get 'home', to: 'pages#home'
+  get 'about', to: 'pages#about'
+  get 'work', to: 'pages#work'
+  get 'contact', to: 'pages#contact'
   
 
 end
